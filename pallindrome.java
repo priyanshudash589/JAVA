@@ -16,7 +16,7 @@ public class pallindrome {
         if(c==num)
         System.out.println("The number is pallindrome!");
         else
-        System.out.println("the number is not pallinderome!");
+        System.out.println("the number is not pallinderome!hghghghg");
 
 
     }
