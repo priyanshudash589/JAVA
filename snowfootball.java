@@ -20,6 +20,7 @@ class snowfootball
 		    System.out.println(7-b);
 		    else 
 		    System.out.println(7-a);
+			System.out.println("Priyanshu Edited shortly due to Semester Examination");
 		}
 	}
 }
