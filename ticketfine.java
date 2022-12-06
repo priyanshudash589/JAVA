@@ -16,6 +16,8 @@ class ticketfine
 		   int q=sc.nextInt();
 		   int r=x*(p-q);
 		   System.out.println(r);
+		   System.out.println("Edited this program due tu busy for semester examinations.
+		   to maintain the comtinuity i ve to do this.")
 		}
 	}
 }
